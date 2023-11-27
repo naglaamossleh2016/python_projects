@@ -18,6 +18,7 @@ Paper covers rock.
 
 ### Project Structure
 ###### rock-paper-scissors_game.py: The main Python script containing the game logic.
+###### rock-paper-scissors-game_chatgpt.py: Code made by chatgpt as oop code
 ###### README.md: The file you're currently reading, providing information about the project.
 
 ### Contributing
