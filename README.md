@@ -9,4 +9,4 @@ Welcome to the Rock Paper Scissors game! This simple Python project allows users
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
+   git clone https://github.com/naglaamossleh2016/rock-paper-scissors.git
