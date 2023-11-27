@@ -11,14 +11,14 @@ Welcome to the Rock Paper Scissors game! This simple Python project allows users
    ```bash
    git clone https://github.com/naglaamossleh2016/rock-paper-scissors.git
    
-###Game Rules
+### Game Rules
 Rock crushes scissors.
 Scissors cuts paper.
 Paper covers rock.
 
-###Project Structure
-######rps_game.py: The main Python script containing the game logic.
-######README.md: The file you're currently reading, providing information about the project.
+### Project Structure
+###### rps_game.py: The main Python script containing the game logic.
+###### README.md: The file you're currently reading, providing information about the project.
 Contributing
 
 If you'd like to contribute to the project, feel free to open an issue or submit a pull request. Contributions are welcome!
