@@ -20,6 +20,6 @@ Paper covers rock.
 ###### rock-paper-scissors_game.py: The main Python script containing the game logic.
 ###### README.md: The file you're currently reading, providing information about the project.
 
-###Contributing
+### Contributing
 
 If you'd like to contribute to the project, feel free to open an issue or submit a pull request. Contributions are welcome!
