@@ -21,5 +21,4 @@ Paper covers rock.
 ###### README.md: The file you're currently reading, providing information about the project.
 
 ### Contributing
-
 If you'd like to contribute to the project, feel free to open an issue or submit a pull request. Contributions are welcome!
